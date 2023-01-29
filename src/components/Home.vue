@@ -12,7 +12,7 @@
         </div>
       </div>
       <div class="menu-item menu-center">
-        Kylie Ying
+        Shrikant Gutte
       </div>
       <div class="menu-item">
         <div class="menu-text">
